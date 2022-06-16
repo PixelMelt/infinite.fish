@@ -6,4 +6,4 @@ I dont know
 
 
 
-[https](https://infinite.fish/)
+[infinite.fish](https://infinite.fish/)
